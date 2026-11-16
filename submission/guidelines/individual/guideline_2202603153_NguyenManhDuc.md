@@ -3,7 +3,6 @@
 - Ngày: 2026-11-16
 - Người viết: Nguyễn Mạnh Đức — MSHV: 2202603153
 - Phiên bản: bản cá nhân dự thảo, đề xuất cho v1.0
-- Trạng thái: dự thảo do AI hỗ trợ soạn; chưa ghi nhận nhóm thống nhất.
 - Công cụ: CVAT; nhãn Rectangle; xuất COCO 1.0.
 - Phạm vi: 40 ảnh gốc trong `data/images/`.
 
