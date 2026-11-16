@@ -1,0 +1,56 @@
+{
+  "taxonomy_version": "v1.0",
+  "thresholds": {
+    "iaa_iou": 0.85,
+    "iaa_class": 0.95,
+    "match_iou": 0.5
+  },
+  "n_annotators": 2,
+  "n_images_compared": 40,
+  "images_with_lt2_annotators": [],
+  "overall": {
+    "n_images": 40,
+    "n_matched_pairs": 314,
+    "n_unmatched_a": 122,
+    "n_unmatched_b": 53,
+    "n_skipped_in_ignore": 34,
+    "mean_iou": 0.8817349581946967,
+    "class_agreement": 0.9840764331210191,
+    "attr_agreement": {
+      "occluded_level": 0.6050955414012739,
+      "truncated": 0.9363057324840764
+    },
+    "n_below_iou_thr": 81,
+    "iou_pass": true,
+    "class_pass": true,
+    "pass": true
+  },
+  "per_pair": {
+    "153|205": {
+      "n_images": 40,
+      "n_matched_pairs": 314,
+      "n_unmatched_a": 122,
+      "n_unmatched_b": 53,
+      "n_skipped_in_ignore": 34,
+      "mean_iou": 0.8817349581946967,
+      "class_agreement": 0.9840764331210191,
+      "attr_agreement": {
+        "occluded_level": 0.6050955414012739,
+        "truncated": 0.9363057324840764
+      },
+      "n_below_iou_thr": 81,
+      "iou_pass": true,
+      "class_pass": true,
+      "pass": true
+    }
+  },
+  "n_issues": 422,
+  "issues_by_type": {
+    "bo_sot_thua": 175,
+    "sai_thuoc_tinh": 136,
+    "co_can_review": 25,
+    "iou_thap": 81,
+    "sai_lop": 5
+  },
+  "n_flagged_images": 35
+}
