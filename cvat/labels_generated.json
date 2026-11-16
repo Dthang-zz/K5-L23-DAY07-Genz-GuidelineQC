@@ -30,7 +30,9 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
     ]
   },
@@ -65,7 +67,9 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
     ]
   },
@@ -100,7 +104,9 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
     ]
   },
@@ -135,7 +141,9 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
     ]
   },
@@ -170,7 +178,46 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "other_vehicle",
+    "color": "#46c8c8",
+    "attributes": [
+      {
+        "name": "occluded_level",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "0",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "can_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": [
+          "false"
+        ]
       }
     ]
   },
