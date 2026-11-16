@@ -1,8 +1,8 @@
-# Guideline gán nhãn — v0.1 (cá nhân) — 163 - Tạ Đức Thắng | Nhóm Genz
+# Guideline gán nhãn — v0.1 (cá nhân) — 205 - Tạ Đức Thắng | Nhóm Genz
 
 - Phiên bản: v0.1 (bản cá nhân, viết độc lập ở Pha 1, sửa từ v0 của giảng viên)
 - Ngày: 2026-11-16
-- Người viết: 163 - Tạ Đức Thắng
+- Người viết: 205 - Tạ Đức Thắng
 - Loại nhãn: bounding box trên ảnh đường phố · Công cụ: CVAT, xuất COCO 1.0
 
 ---

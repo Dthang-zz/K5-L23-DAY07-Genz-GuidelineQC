@@ -1,4 +1,4 @@
-# Day 07 Lab — Nhóm Genz: 163 - Tạ Đức Thắng (2A202603163), 153 - Nguyễn Mạnh Đức (2A202603153)
+# Day 07 Lab — Nhóm Genz: 205 - Tạ Đức Thắng (2A202603163), 153 - Nguyễn Mạnh Đức (2A202603153)
 
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố châu Á · gán box bằng CVAT**
 
