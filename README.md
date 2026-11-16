@@ -1,4 +1,4 @@
-# Day 07 Lab — Guideline, Taxonomy & QC
+# Day 07 Lab — Nhóm Genz: 2A202603163 - Tạ Đức Thắng,
 
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố châu Á · gán box bằng CVAT**
 
@@ -8,7 +8,7 @@ rồi quyết định **Release / Hold / Rework** cho lô nhãn.
 
 ![Mẫu ảnh trong bộ dữ liệu](docs/assets/sample_grid.jpg)
 
-*Có gì lạ trong ảnh? Tuk-tuk, xe chở xe, tượng, xe giả tưởng, tượng pickup, ma-nơ-canh… Guideline của bạn phải xử lý được chúng.*
+_Có gì lạ trong ảnh? Tuk-tuk, xe chở xe, tượng, xe giả tưởng, tượng pickup, ma-nơ-canh… Guideline của bạn phải xử lý được chúng._
 
 ## Quy trình
 
@@ -33,17 +33,17 @@ Trọng tâm là **guideline**: nhãn chỉ tốt khi mọi người hiểu quy 
 
 ## Tài liệu
 
-| Bạn cần | Xem |
-|---|---|
-| Các pha làm việc và lệnh | [GUIDE.md](GUIDE.md) |
-| Mốc tiến độ 4 giờ | [CHECKPOINTS.md](CHECKPOINTS.md) |
-| Quy tắc làm bài | [RULES.md](RULES.md) |
-| Chấm điểm (100 điểm) | [RUBRIC.md](RUBRIC.md) |
-| Sản phẩm phải nộp, tên repo, checklist | [SUBMISSION.md](SUBMISSION.md) |
-| Thông tin nhóm và kết quả tóm tắt | [TEAM.md](TEAM.md) |
-| Cài và dùng CVAT | [docs/CVAT_SETUP.md](docs/CVAT_SETUP.md) |
-| Công thức, ngưỡng, cây quyết định QC | [docs/QC_CHEATSHEET.md](docs/QC_CHEATSHEET.md) |
-| Mẫu báo cáo QC, ghi chú cá nhân | [docs/QC_REPORT_TEMPLATE.md](docs/QC_REPORT_TEMPLATE.md), [docs/INDIVIDUAL_NOTE_TEMPLATE.md](docs/INDIVIDUAL_NOTE_TEMPLATE.md) |
-| Các script | [scripts/README.md](scripts/README.md) |
-| Guideline khởi đầu (v0), khung viết guideline | [guideline/](guideline/) |
-| Nguồn và giấy phép ảnh | [data/README.md](data/README.md), [data/ATTRIBUTION.csv](data/ATTRIBUTION.csv) |
+| Bạn cần                                       | Xem                                                                                                                            |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Các pha làm việc và lệnh                      | [GUIDE.md](GUIDE.md)                                                                                                           |
+| Mốc tiến độ 4 giờ                             | [CHECKPOINTS.md](CHECKPOINTS.md)                                                                                               |
+| Quy tắc làm bài                               | [RULES.md](RULES.md)                                                                                                           |
+| Chấm điểm (100 điểm)                          | [RUBRIC.md](RUBRIC.md)                                                                                                         |
+| Sản phẩm phải nộp, tên repo, checklist        | [SUBMISSION.md](SUBMISSION.md)                                                                                                 |
+| Thông tin nhóm và kết quả tóm tắt             | [TEAM.md](TEAM.md)                                                                                                             |
+| Cài và dùng CVAT                              | [docs/CVAT_SETUP.md](docs/CVAT_SETUP.md)                                                                                       |
+| Công thức, ngưỡng, cây quyết định QC          | [docs/QC_CHEATSHEET.md](docs/QC_CHEATSHEET.md)                                                                                 |
+| Mẫu báo cáo QC, ghi chú cá nhân               | [docs/QC_REPORT_TEMPLATE.md](docs/QC_REPORT_TEMPLATE.md), [docs/INDIVIDUAL_NOTE_TEMPLATE.md](docs/INDIVIDUAL_NOTE_TEMPLATE.md) |
+| Các script                                    | [scripts/README.md](scripts/README.md)                                                                                         |
+| Guideline khởi đầu (v0), khung viết guideline | [guideline/](guideline/)                                                                                                       |
+| Nguồn và giấy phép ảnh                        | [data/README.md](data/README.md), [data/ATTRIBUTION.csv](data/ATTRIBUTION.csv)                                                 |
