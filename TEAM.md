@@ -23,8 +23,8 @@ Danh sách trên phải khớp dòng tiêu đề của `README.md` (đã đổi 
 
 ## Kết quả tóm tắt (điền cuối bài)
 
-- Số thành viên / số lần gán mỗi ảnh (K): …
-- IAA trước calibration: IoU trung bình … , đồng thuận lớp … % (mẫu số: …)
-- Số ảnh phải calibration: … / 40
-- Tỉ lệ lỗi sau calibration: … % theo ảnh (…/…), … % theo đối tượng (…/…)
-- **Quyết định:** Release / Hold / Rework — lý do một dòng: …
+- Số thành viên / số lần gán mỗi ảnh (K): 2 / 2
+- IAA trước calibration: IoU trung bình 0.882, đồng thuận lớp 98.4 % (mẫu số: 314 cặp box ghép; 175/877 box không ghép được)
+- Số ảnh phải calibration: 35 / 40
+- Tỉ lệ lỗi sau calibration: 10.0 % theo ảnh (4/40), 0.9 % theo đối tượng (4/460)
+- **Quyết định:** Rework — lý do một dòng: 4/40 ảnh có lỗi (10% > ngưỡng 2%), lỗi lặp lại ở cảnh dày đặc (ranh giới `ignore_region`, box trùng).
