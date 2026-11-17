@@ -2,7 +2,7 @@
 
 - Tên nhóm: Genz
 - Repo bài nộp (URL): https://github.com/Dthang-zz/K5-L23-DAY07-Genz-GuidelineQC
-- Commit chốt bài (hash):
+- Commit chốt bài (hash): lab07_Genz_update
 - Số thành viên: 2 → số người gán mỗi ảnh (K): 2 (cả hai người cùng gán đủ 40/40 ảnh)
 
 | STT | MSHV (mã dùng trong lab) | MSHV đầy đủ | Họ và tên       | Lớp (L2 / L3 / khác) | Tài khoản GitHub         |
